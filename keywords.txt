@@ -1,0 +1,4 @@
+SFM4100    KEYWORD1
+begin      KEYWORD2
+softReset  KEYWORD2
+readFlow   KEYWORD2
